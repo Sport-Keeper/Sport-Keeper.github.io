@@ -1,12 +1,12 @@
 basic_settings:
-  site_title: Sportkeeper - Membership Management Software
+  site_title: SportKeeper - Membership Management Software
   favicon_image: /assets/img/favicon-196x196.png
 
 header_settings:
   logo_image: /assets/img/brand/PNG_logo_for_light_backgrounds.png
   mobile_logo_image: /assets/img/brand/blue.png
   # Choose a color for your header [blue, dark, light].
-  theme: dark
+  theme: light
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 
@@ -21,7 +21,7 @@ blog_settings:
     # basic – a simple list of posts
     # narrow – a masonary grid of posts
     # grid – a full-width square grid of posts
-  theme: narrow
+  theme: basic
   # Should we display a narrow grid of other posts at the bottom of each blog post?
   read_more: "yes"
 
@@ -32,38 +32,20 @@ blog_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      submenu_items:
-      - title: Landing Page
-        url: /
-        icon: ni-spaceship text-success    
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
+      url: /
     - title: 'Features'
       url: '/features'     
     - title: Pricing
       url: /pricing        
     - title: 'Blog'
-      submenu_items:
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-      - title: Narrow Grid Example
-        url: /blog-narrow-example
-        icon: ni-align-center text-success
-      - title: Wide Grid Example
-        url: /blog-grid-example
-        icon: ni-image text-info
-      - title: List Example
-        url: /blog-list-example
-        icon: ni-bullet-list-67 text-default    
+      url: /blog  
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Argon & Jekyll, together at last.
+  footer_tagline: SportKeeper, member management made simple.
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
