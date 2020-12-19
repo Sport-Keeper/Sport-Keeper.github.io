@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Argon Jekyll Theme
-  favicon_image: /assets/img/favicon.png
+  site_title: Sportkeeper - Membership Management Software
+  favicon_image: /assets/img/favicon-196x196.png
 
 header_settings:
   logo_image: /assets/img/brand/white.png
