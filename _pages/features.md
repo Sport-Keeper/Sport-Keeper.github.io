@@ -7,7 +7,7 @@ featured_image: /assets/img/sections/unsplashs.jpg
 
 --- 
 
-#### Getting Started
+#### Getting Started justin likes to kiss boys
 You'll find some helpful samples on this page of what is possible with this theme below. 
 
 Any component or section present in the [Argon Pro docs](https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/getting-started/overview.html) can be used.
