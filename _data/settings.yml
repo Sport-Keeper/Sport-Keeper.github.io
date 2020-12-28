@@ -54,29 +54,29 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'https://twitter.com/jekyllthemesio'
+  facebook_url: ''
+  twitter_url: 'https://twitter.com/sport_keeper_'
+  instagram_url: 'https://instagram.com/sportkeepersoftware'
   youtube_url: ''
   vimeo_url: ''
   pinterest_url: ''
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
-  github_url: 'https://twitter.com/jekyllthemesio'
+  github_url: ''
   reddit_url: ''
   linkedin_url: ''
 
 authors:
-  tom:
-    name: Tom
-    picture: /assets/img/faces/team-1.jpg
-  jane:
-    name: Jane
-    picture: /assets/img/faces/team-4.jpg
-  michael:
-    name: Michael
-    picture: /assets/img/faces/michael.jpg
+  justin:
+    name: Justin
+    picture: /assets/img/faces/justin.jpg
+  jerem:
+    name: Jerem
+    picture: /assets/img/faces/jerem.jpg
+  jadyn:
+    name: Jadyn
+    picture: /assets/img/faces/jadyn.jpg
 
 advanced_settings:
   analytics_code: 
