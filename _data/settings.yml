@@ -48,7 +48,7 @@ footer_settings:
   footer_tagline: SportKeeper, member management made simple.
 
 contact_settings:
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
+  form_action: 'https://formspree.io/f/xrgooold'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
