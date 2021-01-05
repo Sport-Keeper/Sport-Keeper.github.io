@@ -17,7 +17,7 @@ layout: default
           </div>
         </div>
         <blockquote class="blockquote text-center mt-2">
-          <p class="mb-0 text-white">Posted {{ page.date | date_to_string }}</p>
+          <p class="mb-0 text-white">Posted {{ page.date | date_to_string: "ordinal", "US"  }}</p>
         </blockquote>
         <h2 class="lead text-white pl-5 pr-5 pb-5 text-center">{{page.description}}</h2>
       </div>
@@ -29,7 +29,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-8 ml-auto mr-auto">
-        <h6 class="category">{{ page.date | date_to_string }}</h6>
+        <h6 class="category">{{ page.date | date_to_string: "ordinal", "US"  }}</h6>
         <h3 class="title">{{ page.title }}</h3>
         <article class="blog-post">
           {{ page.content }}
