@@ -41,5 +41,5 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/posts/page:num/"
+paginate_path: "/blog/page:num/"
   
