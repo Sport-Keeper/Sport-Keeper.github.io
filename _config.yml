@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:collection/:page_url
+    permalink: /:collection/:name
     type: "post"
 
 defaults:
