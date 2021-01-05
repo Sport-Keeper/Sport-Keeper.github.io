@@ -4,6 +4,7 @@ title: The State of Climbing Gym Management Software
 description: The climbing industry is booming. Can the current options for gym management software keep pace?
 date: 2018-10-25 00:00:00
 feature_image: /assets/img/sections/rock-climbing-gym.jpg
+page_url: 1-the-state-of-climbing-gym-management-software
 
 ---
 

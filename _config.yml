@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:page_url
     type: "post"
 
 defaults:
@@ -41,5 +41,5 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/posts/page:num/"
   

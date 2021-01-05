@@ -38,7 +38,7 @@ menu_settings:
     - title: Pricing
       url: /pricing        
     - title: 'Blog'
-      url: /blog  
+      url: /posts  
     - title: 'About'
       url: '/about'
     - title: 'Contact'
