@@ -3,10 +3,10 @@ basic_settings:
   favicon_image: /assets/img/favicon-196x196.png
 
 header_settings:
-  logo_image: /assets/img/brand/PNG_logo_for_light_backgrounds.png
+  logo_image: /assets/img/brand/PNG_logo_for_dark_backgrounds.png
   mobile_logo_image: 
   # Choose a color for your header [blue, dark, light].
-  theme: light
+  theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 
@@ -31,8 +31,6 @@ blog_settings:
   # 3. Add a color of the icon - text-primary, text-success, text-info, text-danger, text-warning and text-default all work! 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: /
     - title: 'Features'
       url: '/features'     
     - title: Pricing

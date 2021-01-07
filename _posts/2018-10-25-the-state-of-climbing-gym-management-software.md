@@ -12,7 +12,7 @@ Last year 43 new climbing gyms opened according to [Climbing Business Journal](h
 ###### **Basic Needs**
 There's a couple basic features that climbing gym management software needs to support in order to manage a gym. Climbing gyms require waivers from members, so the software not only needs to support it, but revolve around the concept. It also needs to be able to not only manage those members, but bill them and collect payments as well.
 
-And since their likely aren't many gyms without products, it should handle managing the products, while also providing a Point of Sale interface for accepting credit cards.
+And since their likely aren't many gyms without products, it should handle managing the products, while also providing a Point-of-Sale (POS) interface for accepting credit cards.
 
 ###### **Additional Needs**
 There are a lot of additional features that could be considered as *required*. One such feature is a calendar and event booking system. It's pretty common to these days for climbing gyms to incorporate events such as Yoga, Aerials, or Club Team for kids, which generate additional revenue.
@@ -27,6 +27,6 @@ Another software option has consistently popped up as an alternative, and that's
 ###### **Needs Still to Meet**
 In talking with gym owners and staff, it's clear that the current software options are not handling tasks in the most efficient manner possible. The biggest bottleneck I've identified is a lack of automation. Tasks like billing members are done manually. Membership creation via EFT payments are setup manually, and collecting payments is even done manually.
 
-It doesn't have to be this way.
+**It doesn't have to be this way.**
 
 The business models of climbing gyms are evolving, and with the increase in the popularity of the sport, it's important that we have the right tools and software that can keep pace.

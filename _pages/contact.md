@@ -1,8 +1,8 @@
 ---
 title: Contact
-subtitle: This theme comes with a built-in contact form that's free and easy to set up.
+subtitle: How to get a hold of the people running SportKeeper.
 type: contact
-description: This theme comes with a built-in contact form that's free and easy to set up.
+description: Getting a hold of the folks that run SportKeeper is easy. Email us today and find out.
 ---
 
 {% include components/headers/contact-page-header.html %}
