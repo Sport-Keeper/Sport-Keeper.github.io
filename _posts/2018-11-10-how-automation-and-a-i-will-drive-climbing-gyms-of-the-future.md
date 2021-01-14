@@ -23,7 +23,7 @@ The software that runs the gym is basically another employee. Only this one won'
 
 We're reaching the end of the day, and Sport is still working hard. It has automatically processed 106 membership payments today without Sandra or her staff having to do anything at all. Sport shows Sandra the report for the day. She's happy! Anther successful day in the gym.
 
-"Hey Sport, shutdown the gym," Sandra speaks. The software begins gracefully shutting down the lights in the back, leaving those in the front for Sandra to exit. As Sandra leaves for the day Sport continues to work. The software is preparing a report for Sandra in the morning, and will recommend that they get rid of the signup fees just for next month. The software knows that historically it‚Äôs a low point of revenue for the year, so it comes up with ways to boost revenue in the slow months.
+"Hey Sport, shutdown the gym," Sandra speaks. The software begins gracefully shutting down the lights in the back, leaving those in the front for Sandra to exit. As Sandra leaves for the day Sport continues to work. The software is preparing a report for Sandra in the morning, and will recommend that they get rid of the signup fees just for next month. The software knows that historically it's a low point of revenue for the year, so it comes up with ways to boost revenue in the slow months.
 
 Sandras gym is managed with confidence. She rests well, knowing it's in good hands.
 
